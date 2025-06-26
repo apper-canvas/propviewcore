@@ -1,0 +1,489 @@
+[
+  {
+    "id": "1",
+    "title": "Modern Downtown Loft with City Views",
+    "price": 750000,
+    "address": {
+      "street": "123 Main Street",
+      "city": "New York",
+      "state": "NY",
+      "zipCode": "10001"
+    },
+    "coordinates": {
+      "lat": 40.7589,
+      "lng": -73.9851
+    },
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "squareFeet": 1200,
+    "propertyType": "Apartment",
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&h=600&fit=crop"
+    ],
+    "description": "Stunning modern loft in the heart of downtown with panoramic city views. This beautifully designed space features floor-to-ceiling windows, exposed brick walls, and premium finishes throughout. The open-concept layout maximizes space and light, while the gourmet kitchen boasts stainless steel appliances and granite countertops.",
+    "features": [
+      "Floor-to-ceiling windows",
+      "Exposed brick walls",
+      "Hardwood floors",
+      "Granite countertops",
+      "Stainless steel appliances",
+      "In-unit washer/dryer",
+      "Rooftop terrace access",
+      "Concierge service"
+    ],
+    "listingDate": "2024-01-15T00:00:00.000Z",
+    "yearBuilt": 2018
+  },
+  {
+    "id": "2",
+    "title": "Luxury Suburban Family Home",
+    "price": 950000,
+    "address": {
+      "street": "456 Oak Avenue",
+      "city": "Westchester",
+      "state": "NY",
+      "zipCode": "10601"
+    },
+    "coordinates": {
+      "lat": 41.0534,
+      "lng": -73.7629
+    },
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "squareFeet": 2800,
+    "propertyType": "House",
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600607687644-aac4c3eac7f4?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=800&h=600&fit=crop"
+    ],
+    "description": "Elegant colonial home in prestigious Westchester neighborhood. This meticulously maintained property offers spacious living areas, a gourmet kitchen with island seating, and a master suite with walk-in closet. The beautifully landscaped yard features mature trees and a deck perfect for entertaining.",
+    "features": [
+      "Gourmet kitchen",
+      "Master suite with walk-in closet",
+      "Hardwood floors throughout",
+      "Two-car garage",
+      "Landscaped yard",
+      "Deck and patio",
+      "Central air conditioning",
+      "Security system",
+      "Fireplace",
+      "Basement storage"
+    ],
+    "listingDate": "2024-01-18T00:00:00.000Z",
+    "yearBuilt": 2005
+  },
+  {
+    "id": "3",
+    "title": "Waterfront Condo with Marina Access",
+    "price": 1200000,
+    "address": {
+      "street": "789 Harbor Drive",
+      "city": "Miami",
+      "state": "FL",
+      "zipCode": "33101"
+    },
+    "coordinates": {
+      "lat": 25.7617,
+      "lng": -80.1918
+    },
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "squareFeet": 1800,
+    "propertyType": "Condo",
+    "images": [
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&h=600&fit=crop"
+    ],
+    "description": "Spectacular waterfront condominium with direct marina access and breathtaking ocean views. This luxury unit features an open floor plan, floor-to-ceiling windows, and a private balcony overlooking the water. The building offers world-class amenities including pool, spa, and fitness center.",
+    "features": [
+      "Direct marina access",
+      "Ocean views",
+      "Private balcony",
+      "Floor-to-ceiling windows",
+      "Open floor plan",
+      "Granite countertops",
+      "Swimming pool",
+      "Fitness center",
+      "Spa facilities",
+      "Concierge service",
+      "Valet parking"
+    ],
+    "listingDate": "2024-01-20T00:00:00.000Z",
+    "yearBuilt": 2015
+  },
+  {
+    "id": "4",
+    "title": "Charming Victorian Townhouse",
+    "price": 650000,
+    "address": {
+      "street": "321 Elm Street",
+      "city": "San Francisco",
+      "state": "CA",
+      "zipCode": "94102"
+    },
+    "coordinates": {
+      "lat": 37.7749,
+      "lng": -122.4194
+    },
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "squareFeet": 1600,
+    "propertyType": "Townhouse",
+    "images": [
+      "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=800&h=600&fit=crop"
+    ],
+    "description": "Beautifully restored Victorian townhouse in the heart of San Francisco. This historic gem combines original architectural details with modern amenities. Features include original hardwood floors, decorative moldings, and a private garden. Perfect for those who appreciate character and charm.",
+    "features": [
+      "Historic Victorian architecture",
+      "Original hardwood floors",
+      "Decorative moldings",
+      "Private garden",
+      "Updated kitchen",
+      "Modern bathrooms",
+      "High ceilings",
+      "Bay windows",
+      "Garage parking",
+      "Basement storage"
+    ],
+    "listingDate": "2024-01-22T00:00:00.000Z",
+    "yearBuilt": 1895
+  },
+  {
+    "id": "5",
+    "title": "Contemporary Desert Retreat",
+    "price": 850000,
+    "address": {
+      "street": "654 Desert Vista Road",
+      "city": "Scottsdale",
+      "state": "AZ",
+      "zipCode": "85260"
+    },
+    "coordinates": {
+      "lat": 33.4942,
+      "lng": -111.9261
+    },
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "squareFeet": 2200,
+    "propertyType": "House",
+    "images": [
+      "https://images.unsplash.com/photo-1600607687644-aac4c3eac7f4?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&h=600&fit=crop"
+    ],
+    "description": "Stunning contemporary home nestled in the Sonoran Desert with panoramic mountain views. This architectural masterpiece features clean lines, expansive glass walls, and seamless indoor-outdoor living. The resort-style backyard includes a pool, spa, and multiple entertaining areas.",
+    "features": [
+      "Mountain views",
+      "Floor-to-ceiling glass walls",
+      "Open concept design",
+      "Resort-style backyard",
+      "Swimming pool",
+      "Hot tub/spa",
+      "Outdoor kitchen",
+      "Fire pit",
+      "Desert landscaping",
+      "Three-car garage",
+      "Solar panels"
+    ],
+    "listingDate": "2024-01-25T00:00:00.000Z",
+    "yearBuilt": 2020
+  },
+  {
+    "id": "6",
+    "title": "Historic Brownstone with Garden",
+    "price": 1100000,
+    "address": {
+      "street": "987 Commonwealth Avenue",
+      "city": "Boston",
+      "state": "MA",
+      "zipCode": "02215"
+    },
+    "coordinates": {
+      "lat": 42.3601,
+      "lng": -71.0589
+    },
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "squareFeet": 2400,
+    "propertyType": "Townhouse",
+    "images": [
+      "https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600607687644-aac4c3eac7f4?w=800&h=600&fit=crop"
+    ],
+    "description": "Magnificent Victorian brownstone on historic Commonwealth Avenue. This meticulously preserved home features original details including marble fireplaces, parquet floors, and intricate woodwork. The private garden provides a peaceful oasis in the city. Recently updated with modern systems while maintaining period charm.",
+    "features": [
+      "Historic Commonwealth Avenue location",
+      "Original marble fireplaces",
+      "Parquet flooring",
+      "Intricate woodwork",
+      "Private garden",
+      "Updated systems",
+      "High ceilings",
+      "Bay windows",
+      "Basement recreation room",
+      "Off-street parking"
+    ],
+    "listingDate": "2024-01-28T00:00:00.000Z",
+    "yearBuilt": 1890
+  },
+  {
+    "id": "7",
+    "title": "Mountain View Cabin Retreat",
+    "price": 475000,
+    "address": {
+      "street": "234 Pine Ridge Trail",
+      "city": "Aspen",
+      "state": "CO",
+      "zipCode": "81611"
+    },
+    "coordinates": {
+      "lat": 39.1911,
+      "lng": -106.8175
+    },
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "squareFeet": 1400,
+    "propertyType": "House",
+    "images": [
+      "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=800&h=600&fit=crop"
+    ],
+    "description": "Cozy mountain cabin with spectacular views of the Colorado Rockies. This charming retreat features rustic elegance with modern amenities. Perfect for year-round enjoyment with easy access to world-class skiing in winter and hiking trails in summer. The wrap-around deck offers breathtaking mountain vistas.",
+    "features": [
+      "Mountain views",
+      "Wrap-around deck",
+      "Stone fireplace",
+      "Rustic beam ceilings",
+      "Modern kitchen",
+      "Hot tub",
+      "Garage",
+      "Storage shed",
+      "Mature pine trees",
+      "Ski area access"
+    ],
+    "listingDate": "2024-01-30T00:00:00.000Z",
+    "yearBuilt": 1985
+  },
+  {
+    "id": "8",
+    "title": "Luxury Penthouse with Rooftop Terrace",
+    "price": 2200000,
+    "address": {
+      "street": "555 Park Avenue",
+      "city": "New York",
+      "state": "NY",
+      "zipCode": "10022"
+    },
+    "coordinates": {
+      "lat": 40.7614,
+      "lng": -73.9776
+    },
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "squareFeet": 3200,
+    "propertyType": "Apartment",
+    "images": [
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop"
+    ],
+    "description": "Ultimate luxury penthouse on prestigious Park Avenue with private rooftop terrace and 360-degree city views. This exceptional residence features the finest finishes, smart home technology, and unparalleled amenities. The private terrace offers over 1,000 square feet of outdoor entertaining space with stunning skyline views.",
+    "features": [
+      "Private rooftop terrace",
+      "360-degree city views",
+      "Smart home technology",
+      "Wine cellar",
+      "Home theater",
+      "Gourmet kitchen",
+      "Master suite with dressing room",
+      "Marble bathrooms",
+      "Private elevator",
+      "Doorman service",
+      "Fitness center",
+      "Storage unit"
+    ],
+    "listingDate": "2024-02-01T00:00:00.000Z",
+    "yearBuilt": 2022
+  },
+  {
+    "id": "9",
+    "title": "Beachfront Villa with Pool",
+    "price": 1650000,
+    "address": {
+      "street": "888 Ocean Boulevard",
+      "city": "Malibu",
+      "state": "CA",
+      "zipCode": "90265"
+    },
+    "coordinates": {
+      "lat": 34.0259,
+      "lng": -118.7798
+    },
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "squareFeet": 3500,
+    "propertyType": "House",
+    "images": [
+      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600607687644-aac4c3eac7f4?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=800&h=600&fit=crop"
+    ],
+    "description": "Spectacular beachfront villa directly on the sand in exclusive Malibu. This architectural masterpiece offers seamless indoor-outdoor living with walls of glass opening to ocean views. The infinity pool appears to merge with the Pacific Ocean, while multiple decks provide perfect spots for watching the sunset.",
+    "features": [
+      "Direct beach access",
+      "Ocean views from every room",
+      "Infinity pool",
+      "Outdoor kitchen",
+      "Multiple decks",
+      "Floor-to-ceiling windows",
+      "Gourmet kitchen",
+      "Master suite with ocean views",
+      "Guest house",
+      "Three-car garage",
+      "Beach volleyball court"
+    ],
+    "listingDate": "2024-02-03T00:00:00.000Z",
+    "yearBuilt": 2019
+  },
+  {
+    "id": "10",
+    "title": "Urban Industrial Loft",
+    "price": 580000,
+    "address": {
+      "street": "123 Factory Street",
+      "city": "Chicago",
+      "state": "IL",
+      "zipCode": "60614"
+    },
+    "coordinates": {
+      "lat": 41.8781,
+      "lng": -87.6298
+    },
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "squareFeet": 1100,
+    "propertyType": "Apartment",
+    "images": [
+      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&h=600&fit=crop"
+    ],
+    "description": "Authentic industrial loft in converted factory building with soaring ceilings and exposed brick walls. This unique space features polished concrete floors, oversized windows, and original architectural details. The open layout and abundant natural light create the perfect canvas for modern urban living.",
+    "features": [
+      "Exposed brick walls",
+      "Polished concrete floors",
+      "14-foot ceilings",
+      "Oversized windows",
+      "Open layout",
+      "Industrial fixtures",
+      "Updated kitchen",
+      "In-unit laundry",
+      "Rooftop deck access",
+      "Bike storage"
+    ],
+    "listingDate": "2024-02-05T00:00:00.000Z",
+    "yearBuilt": 1920
+  },
+  {
+    "id": "11",
+    "title": "Lakefront Estate with Dock",
+    "price": 1350000,
+    "address": {
+      "street": "777 Lakeshore Drive",
+      "city": "Lake Tahoe",
+      "state": "CA",
+      "zipCode": "96150"
+    },
+    "coordinates": {
+      "lat": 39.0968,
+      "lng": -120.0324
+    },
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "squareFeet": 2900,
+    "propertyType": "House",
+    "images": [
+      "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=800&h=600&fit=crop"
+    ],
+    "description": "Magnificent lakefront estate on the shores of pristine Lake Tahoe with private dock and beach. This custom-built home offers panoramic lake and mountain views from every room. The great room features vaulted ceilings and a stone fireplace, while the gourmet kitchen opens to a deck perfect for entertaining.",
+    "features": [
+      "Private dock and beach",
+      "Panoramic lake views",
+      "Stone fireplace",
+      "Vaulted ceilings",
+      "Gourmet kitchen",
+      "Multiple decks",
+      "Hot tub",
+      "Boat house",
+      "Mountain views",
+      "Guest suite",
+      "Two-car garage"
+    ],
+    "listingDate": "2024-02-08T00:00:00.000Z",
+    "yearBuilt": 2010
+  },
+  {
+    "id": "12",
+    "title": "Modern Farmhouse with Acreage",
+    "price": 725000,
+    "address": {
+      "street": "444 Country Road",
+      "city": "Austin",
+      "state": "TX",
+      "zipCode": "78736"
+    },
+    "coordinates": {
+      "lat": 30.2672,
+      "lng": -97.7431
+    },
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "squareFeet": 2100,
+    "propertyType": "House",
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600607687644-aac4c3eac7f4?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=800&h=600&fit=crop"
+    ],
+    "description": "Beautiful modern farmhouse on 5 acres of rolling hill country just outside Austin. This contemporary take on classic farmhouse style features board and batten siding, metal roof, and wraparound porch. The open interior showcases shiplap walls, farmhouse sink, and barn doors throughout.",
+    "features": [
+      "5 acres of land",
+      "Modern farmhouse design",
+      "Wraparound porch",
+      "Shiplap walls",
+      "Farmhouse sink",
+      "Barn doors",
+      "Open floor plan",
+      "Master suite",
+      "Guest bedroom",
+      "Detached garage",
+      "Fenced pasture"
+    ],
+    "listingDate": "2024-02-10T00:00:00.000Z",
+    "yearBuilt": 2021
+  }
+]

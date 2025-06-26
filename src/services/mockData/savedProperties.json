@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "propertyId": "1",
+    "savedDate": "2024-01-20T10:30:00.000Z",
+    "notes": "Love the city views and modern design",
+    "collectionId": "default"
+  },
+  {
+    "id": 2,
+    "propertyId": "3",
+    "savedDate": "2024-01-22T14:15:00.000Z",
+    "notes": "Perfect for waterfront lifestyle",
+    "collectionId": "shortlist"
+  }
+]
