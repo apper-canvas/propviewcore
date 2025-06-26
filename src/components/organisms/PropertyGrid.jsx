@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import PropertyCard from "@/components/molecules/PropertyCard";
-import { ApperIcon } from "@/components/atoms/ApperIcon";
+import ApperIcon from "@/components/atoms/ApperIcon";
 import { Button } from "@/components/atoms/Button";
 import React from "react";
 const PropertyGrid = ({ properties, loading, error }) => {
